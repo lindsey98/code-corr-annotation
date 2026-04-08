@@ -1,3 +1,11 @@
 tqdm
 fire
 numpy
+transformers
+datasets
+tree_sitter_python
+tree_sitter
+tree-sitter-rust
+tree-sitter-go
+tree-sitter-c
+tree-sitter-haskell
